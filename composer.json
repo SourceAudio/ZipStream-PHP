@@ -1,6 +1,6 @@
 {
   "name": "maennchen/zipstream-php",
-  "description": "ZipStream is a library for dynamically streaming dynamic zip files from PHP without writing to the disk at all on the server.",
+  "description": "ZipStream is a library for dynamically streaming dynamic zip files from PHP without writing to the disk at all on the server. Forked by SourceAudio to update dependencies.",
   "keywords": ["zip", "stream"],
   "type": "library",
   "license": "MIT",
@@ -24,7 +24,7 @@
   "require": {
     "php": "^8.0",
     "ext-mbstring": "*",
-    "psr/http-message": "^1.0",
+    "psr/http-message": "^2.0",
     "myclabs/php-enum": "^1.5"
   },
   "require-dev": {
