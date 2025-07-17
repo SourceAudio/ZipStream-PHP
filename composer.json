@@ -72,5 +72,8 @@
       "/.tool-versions",
       "/vendor"
     ]
+  },
+  "replace": {
+    "maennchen/zipstream-php": "2.4.0"
   }
 }
